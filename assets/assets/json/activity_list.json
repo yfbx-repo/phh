@@ -1,0 +1,104 @@
+{
+    "code": 200,
+    "msg": "OK",
+    "page": 0,
+    "totalPage": 1,
+    "data": [
+        {
+            "id": 0,
+            "route": "/activity_detail/0",
+            "title": "松江方塔园——汉服巡游、汉婚演礼，带你领略传统文化之美！",
+            "image": "https://www.hualigs.cn/image/608a1ecf3f190.jpg",
+            "startDate": "2021-06-01",
+            "endDate": "2021-06-04",
+            "address": "松江方塔园",
+            "createTime": "2021-04-15",
+            "deadLine": "2021-06-01",
+            "desc": "由身着不同汉服形制的汉服爱好者组成巡游方阵穿梭在青瓦灰砖、雕梁画栋、春光明媚的方塔园内，竞相展现华裳之美，传承和展示中华优秀传统文化。"
+        },
+        {
+            "id": 0,
+            "route": "/activity_detail/0",
+            "title": "松江方塔园——汉服巡游、汉婚演礼，带你领略传统文化之美！",
+            "image": "https://www.hualigs.cn/image/608a1ecf3f190.jpg",
+            "startDate": "2021-05-01",
+            "endDate": "2021-05-04",
+            "address": "松江方塔园",
+            "createTime": "2021-04-15",
+            "deadLine": "2021-05-01",
+            "desc": "由身着不同汉服形制的汉服爱好者组成巡游方阵穿梭在青瓦灰砖、雕梁画栋、春光明媚的方塔园内，竞相展现华裳之美，传承和展示中华优秀传统文化。"
+        },
+        {
+            "id": 0,
+            "route": "/activity_detail/0",
+            "title": "松江方塔园——汉服巡游、汉婚演礼，带你领略传统文化之美！",
+            "image": "https://www.hualigs.cn/image/608a1ecf3f190.jpg",
+            "startDate": "2021-05-01",
+            "endDate": "2021-05-04",
+            "address": "松江方塔园",
+            "createTime": "2021-04-15",
+            "deadLine": "2021-05-01",
+            "desc": "由身着不同汉服形制的汉服爱好者组成巡游方阵穿梭在青瓦灰砖、雕梁画栋、春光明媚的方塔园内，竞相展现华裳之美，传承和展示中华优秀传统文化。"
+        },
+        {
+            "id": 0,
+            "route": "/activity_detail/0",
+            "title": "松江方塔园——汉服巡游、汉婚演礼，带你领略传统文化之美！",
+            "image": "https://www.hualigs.cn/image/608a1ecf3f190.jpg",
+            "startDate": "2021-05-01",
+            "endDate": "2021-05-04",
+            "address": "松江方塔园",
+            "createTime": "2021-04-15",
+            "deadLine": "2021-05-01",
+            "desc": "由身着不同汉服形制的汉服爱好者组成巡游方阵穿梭在青瓦灰砖、雕梁画栋、春光明媚的方塔园内，竞相展现华裳之美，传承和展示中华优秀传统文化。"
+        },
+        {
+            "id": 0,
+            "route": "/activity_detail/0",
+            "title": "松江方塔园——汉服巡游、汉婚演礼，带你领略传统文化之美！",
+            "image": "https://www.hualigs.cn/image/608a1ecf3f190.jpg",
+            "startDate": "2021-05-01",
+            "endDate": "2021-05-04",
+            "address": "松江方塔园",
+            "createTime": "2021-04-15",
+            "deadLine": "2021-05-01",
+            "desc": "由身着不同汉服形制的汉服爱好者组成巡游方阵穿梭在青瓦灰砖、雕梁画栋、春光明媚的方塔园内，竞相展现华裳之美，传承和展示中华优秀传统文化。"
+        },
+        {
+            "id": 0,
+            "route": "/activity_detail/0",
+            "title": "松江方塔园——汉服巡游、汉婚演礼，带你领略传统文化之美！",
+            "image": "https://www.hualigs.cn/image/608a1ecf3f190.jpg",
+            "startDate": "2021-05-01",
+            "endDate": "2021-05-04",
+            "address": "松江方塔园",
+            "createTime": "2021-04-15",
+            "deadLine": "2021-05-01",
+            "desc": "由身着不同汉服形制的汉服爱好者组成巡游方阵穿梭在青瓦灰砖、雕梁画栋、春光明媚的方塔园内，竞相展现华裳之美，传承和展示中华优秀传统文化。"
+        },
+        {
+            "id": 0,
+            "route": "/activity_detail/0",
+            "title": "松江方塔园——汉服巡游、汉婚演礼，带你领略传统文化之美！",
+            "image": "https://www.hualigs.cn/image/608a1ecf3f190.jpg",
+            "startDate": "2021-05-01",
+            "endDate": "2021-05-04",
+            "address": "松江方塔园",
+            "createTime": "2021-04-15",
+            "deadLine": "2021-05-01",
+            "desc": "由身着不同汉服形制的汉服爱好者组成巡游方阵穿梭在青瓦灰砖、雕梁画栋、春光明媚的方塔园内，竞相展现华裳之美，传承和展示中华优秀传统文化。"
+        },
+        {
+            "id": 0,
+            "route": "/activity_detail/0",
+            "title": "松江方塔园——汉服巡游、汉婚演礼，带你领略传统文化之美！",
+            "image": "https://www.hualigs.cn/image/608a1ecf3f190.jpg",
+            "startDate": "2021-05-01",
+            "endDate": "2021-05-04",
+            "address": "松江方塔园",
+            "createTime": "2021-04-15",
+            "deadLine": "2021-05-01",
+            "desc": "由身着不同汉服形制的汉服爱好者组成巡游方阵穿梭在青瓦灰砖、雕梁画栋、春光明媚的方塔园内，竞相展现华裳之美，传承和展示中华优秀传统文化。"
+        }
+    ]
+}

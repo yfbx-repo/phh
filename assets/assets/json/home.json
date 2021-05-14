@@ -1,0 +1,84 @@
+{
+    "code": 200,
+    "msg": "OK",
+    "data": {
+        "signed": false,
+        "banner": [
+            {
+                "id": 1001,
+                "image": "https://www.hualigs.cn/image/608a1e0c260ba.jpg",
+                "route": "/photo_detail/1001"
+            },
+            {
+                "id": 1002,
+                "image": "https://www.hualigs.cn/image/608a1e75eb849.jpg",
+                "route": "/photo_detail/1002"
+            },
+            {
+                "id": 1003,
+                "image": "https://www.hualigs.cn/image/608a1ecf3f190.jpg",
+                "route": "/photo_detail/1003"
+            }
+        ],
+        "menu": [
+            {
+                "icon": "0xf3f5",
+                "name": "妆造摄影",
+                "route": ""
+            },
+            {
+                "icon": "0xf3f7",
+                "name": "汉服馆",
+                "route": ""
+            },
+            {
+                "icon": "0xf689",
+                "name": "会员福利",
+                "route": ""
+            },
+            {
+                "icon": "0xf7c4",
+                "name": "签到排行",
+                "route": ""
+            }
+        ],
+        "activity": {
+            "id": 0,
+            "route": "/activity_detail/0",
+            "title": "松江方塔园——汉服巡游、汉婚演礼，带你领略传统文化之美！",
+            "image": "https://www.hualigs.cn/image/608a1ecf3f190.jpg",
+            "startDate": "2021-05-01",
+            "endDate": "2021-05-04",
+            "address": "松江方塔园",
+            "createTime": "2021-04-15",
+            "deadLine": "2021-05-01",
+            "desc": "由身着不同汉服形制的汉服爱好者组成巡游方阵穿梭在青瓦灰砖、雕梁画栋、春光明媚的方塔园内，竞相展现华裳之美，传承和展示中华优秀传统文化。"
+        },
+        "uniform": [
+            {
+                "id": 1011,
+                "name": "魏晋风骨",
+                "image": "https://www.hualigs.cn/image/608a1ecf3f190.jpg",
+                "route": "/photo_detail/1011"
+            },
+            {
+                "id": 1012,
+                "name": "大唐盛世",
+                "image": "https://www.hualigs.cn/image/608a1e75eb849.jpg",
+                "route": "/photo_detail/1012"
+            },
+            {
+                "id": 1013,
+                "name": "宋制",
+                "image": "https://www.hualigs.cn/image/608a1ecf3f190.jpg",
+                "route": "/photo_detail/1013"
+            },
+            {
+                "id": 1014,
+                "name": "明制",
+                "image": "https://www.hualigs.cn/image/608a1e75eb849.jpg",
+                "route": "/photo_detail/1014"
+            }
+        ]
+    }
+}
